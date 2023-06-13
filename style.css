@@ -1,0 +1,30 @@
+body {
+    background-size: cover;
+}
+
+.heading {
+    font-size: 40px;
+    width: 100%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0px;
+    font-weight: bold;
+    border-bottom: 10px dotted white;
+}
+
+.note {
+    font-size: 20px;
+    color: black;
+}
+
+.heading1{
+    font-size: 25px;
+    width: 50%;
+    border-radius: 20px;
+    border: dotted 5px white;
+}
+
+canvas {
+  margin-top: 200px;
+  border: 10px ridge white;
+  box-shadow: 5px 5px 5px blanchedalmond;
+}
